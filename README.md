@@ -6,6 +6,7 @@
 1.1 OBJETIVOS GENERALES
 
 * Analizar e indagar como funcionan los transformadores y a localizar las fallas en un tipo de fuente de potencia de cd que utiliza un transformador para acoplar el voltaje de ca tomado de una toma de corriente eléctrica estándar.
+
 1.2 OBJETIVOS ESPECIFICOS
 
 * Analizar ccomo los transformadores con tomas y devanados multiples pueden presentar cambios es sus voltajes.
