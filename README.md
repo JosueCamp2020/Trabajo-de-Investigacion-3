@@ -9,7 +9,7 @@
 
 1.2 OBJETIVOS ESPECIFICOS
 
-* Analizar ccomo los transformadores con tomas y devanados multiples pueden presentar cambios es sus voltajes.
+* Analizar como los transformadores con tomas y devanados multiples pueden presentar cambios es sus voltajes.
 * Localizar las diferentes fallas presentadas en los circuitos electricos producido por los transformadores.
 * Analizar las caracteristicas de un transformador ideal.
 
