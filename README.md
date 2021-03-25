@@ -15,7 +15,9 @@
 
 2. MARCO TEORICO
 
-![]()
+![](https://github.com/JosueCamp2020/Trabajo-de-Investigacion-3/blob/main/Imagenes/Marco1.jpeg)
+![](https://github.com/JosueCamp2020/Trabajo-de-Investigacion-3/blob/main/Imagenes/Marco2.jpeg)
+![](https://github.com/JosueCamp2020/Trabajo-de-Investigacion-3/blob/main/Imagenes/Marco3.jpeg)
 
 3. DIAGRAMAS/EJERCICIOS/EXPLICACIÓN
 
