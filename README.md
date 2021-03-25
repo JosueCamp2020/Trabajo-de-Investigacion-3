@@ -45,6 +45,6 @@ LINK EJERCICIOS:
 
 LINK ARTICULO: https://github.com/JosueCamp2020/Trabajo-de-Investigacion-3/blob/main/Articulo/Transformadores.pdf
 
-LINK VIDEO: 
+LINK VIDEO: https://github.com/JosueCamp2020/Trabajo-de-Investigacion-3/blob/main/Video/VideoLink
 
-LINK APORTACIONES: 
+LINK APORTACIONES: https://github.com/JosueCamp2020/Trabajo-de-Investigacion-3/blob/main/Aportaciones/aportaciones
