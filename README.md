@@ -43,7 +43,7 @@ LINK EJERCICIOS:
 
 6. ANEXOS
 
-LINK ARTICULO: 
+LINK ARTICULO: https://github.com/JosueCamp2020/Trabajo-de-Investigacion-3/blob/main/Articulo/Transformadores.pdf
 
 LINK VIDEO: 
 
